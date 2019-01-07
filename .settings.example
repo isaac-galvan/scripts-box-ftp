@@ -1,0 +1,6 @@
+#!/bin/bash
+ftp_server="ftp.box.com"
+ftp_user="login@domain.edu"
+ftp_pass="box-external-password"
+ftp_path="temp"
+ftp_dir=""
